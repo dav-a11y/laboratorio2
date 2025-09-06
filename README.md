@@ -7,7 +7,8 @@ El proyecto tiene como objetivo demostrar la capacidad del robot para combinar m
 
 ---
 
-Objetivos
-\* Programar una coreografía coordinada para Pepper.
-\* Sincronizar movimientos físicos y visuales para una   presentación más interactiva.
+- Objetivos:
+  - Programar una coreografía coordinada para Pepper.
+  - Sincronizar movimientos físicos y visuales para una presentación más interactiva.
+
 
