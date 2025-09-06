@@ -1,4 +1,5 @@
 Proyecto: Coreografía de Pepper
+----
 Descripción
 Este proyecto presenta una coreografía programada para el robot Pepper, incluyendo movimientos de brazos, codos, dedos y cadera. Durante la presentación, Pepper muestra imágenes en su tablet de manera sincronizada con sus gestos.
 
